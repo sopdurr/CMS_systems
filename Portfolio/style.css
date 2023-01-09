@@ -1,0 +1,21 @@
+#portfolio {
+    display: none;
+}
+
+#resume {
+    display: none;
+}
+
+#contact {
+    display: none;
+}
+
+.pointer:hover {
+    cursor: pointer;
+}
+
+.image {
+    float: left;
+    width: 400px;
+}
+
